@@ -1,0 +1,7 @@
+git init - to initialize a repository
+git add ./filename - to add files to staging index
+git commit -m message- to commit the repository
+git status- to get the status of git
+git log -to get commit log
+git diff-  to get the difference in the files that are in staging index and the working repository
+git diff --staged - to check changes between staging index and main repository
